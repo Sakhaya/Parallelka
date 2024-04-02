@@ -1,0 +1,26 @@
+﻿  FileName.cpp
+  параллельное программирование.cpp
+C:\Users\Студент\Desktop\parallel\параллельное программирование\experiment.h(16,26): warning C4552: "-": результат выражения не используется
+C:\Users\Студент\Desktop\parallel\параллельное программирование\experiment.h(37,25): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\Студент\Desktop\parallel\параллельное программирование\experiment.h(55,20): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Студент\Desktop\parallel\параллельное программирование\experiment.h(57,11): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Студент\Desktop\parallel\параллельное программирование\experiment.h(61,55): warning C4244: =: преобразование "_Rep" в "double", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Студент\Desktop\parallel\параллельное программирование\experiment.h(73,20): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Студент\Desktop\parallel\параллельное программирование\experiment.h(75,11): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Студент\Desktop\parallel\параллельное программирование\FileName.h(95): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Студент\Desktop\parallel\параллельное программирование\FileName.h(93,19): warning C4858: Отбрасывание возвращаемого значения: A lock should be stored in a variable to protect the scope. If you're intentionally constructing a temporary to protect the rest of the current expression using the comma operator, you can cast the temporary to void or define _SILENCE_NODISCARD_LOCK_WARNINGS to suppress this warning..
+C:\Users\Студент\Desktop\parallel\параллельное программирование\параллельное программирование.cpp(250,15): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Студент\Desktop\parallel\параллельное программирование\параллельное программирование.cpp(290,47): warning C4244: =: преобразование "size_t" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 489 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  параллельное программирование.vcxproj -> C:\Users\Студент\Desktop\parallel\x64\Release\параллельное программирование.exe
